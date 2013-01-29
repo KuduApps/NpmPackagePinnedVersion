@@ -1,6 +1,6 @@
-{ 
-  "name" : "NpmPackagePinnedVersion",
+{
+  "name": "NpmPackagePinnedVersion",
   "version": "1.0.0",
-  "engines": { "node": "0.8.2" },
+  "engines": { "node": "> 0.7" },
   "main": "./bin/server.js"
 }
